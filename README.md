@@ -14,7 +14,7 @@ Sou desenvolvedora full stack com foco em criar produtos digitais eficientes, es
 
 Atuo com desenvolvimento web, apps e soluções personalizadas — sempre pensando em performance, experiência do usuário e resultado.
 
-- 🔭 Atualmente: construindo e escalando projetos na **YNI Digital**
+- 🔭 Atualmente: construindo e escalando projetos na **YNI Digital** e **Ábaco Urbanizadora**
 - 🌱 Sempre aprendendo: novas tecnologias, arquitetura e IA
 - 💼 Experiência com projetos reais e clientes
 - 💬 Bora falar sobre: desenvolvimento, produto, freelas ou negócios digitais
