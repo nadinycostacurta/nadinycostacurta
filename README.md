@@ -44,15 +44,6 @@ Criação de:
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nadinycostacurta&show_icons=true&theme=radical"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadinycostacurta&layout=compact&theme=radical"/>
-</div>
-
----
-
 ### 🌐 Contato
 
 <p align="left">
