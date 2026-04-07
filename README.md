@@ -39,7 +39,7 @@ Criação de:
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,node,php,python,flutter,git,mysql,postgres,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,php,python,flutter,git,mysql,postgres,vscode" />
 </p>
 
 ---
